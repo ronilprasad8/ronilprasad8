@@ -126,10 +126,10 @@
 
 <div align="center">
 
-![Ronil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ronilprasad8&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=007BFF&icon_color=007BFF&text_color=FFFFFF)
+<!-- ![Ronil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ronilprasad8&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=007BFF&icon_color=007BFF&text_color=FFFFFF)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ronilprasad8&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=007BFF&text_color=FFFFFF)
-
+-->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ronilprasad8&theme=tokyonight&hide_border=true&background=0D1117&ring=007BFF&fire=DC3545&currStreakLabel=007BFF)
 
 </div>
