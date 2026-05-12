@@ -29,7 +29,7 @@
 
 ---
 <!-- Technical Arsenal -->
-## 🛠️ Technical Arsenal
+## 🛠️ Technical Stack
 
 <div align="center">
 
