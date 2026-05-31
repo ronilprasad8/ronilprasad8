@@ -9,7 +9,7 @@
 - 🌱 I'm currently learning **Cloud Computing, System Architecture & DevOps**
 - 👯 I'm looking to collaborate on **Java & Python Projects**
 - 💬 Ask me about **SWE, OOP, Web Dev, Socket Programming & System Design**
-- 📫 How to reach me: **contact@ronilprasad8.tech**
+- 📫 How to reach me: **ronilprasad46@gmail.com**
 - 🌐 Portfolio: **[ronilprasad8.tech](https://www.ronilprasad8.tech)**
 - ⚡ Fun fact: **Structure over chaos. Strategy over brute force.**
 
