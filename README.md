@@ -6,7 +6,7 @@
 ## A methodical Software Engineering student and passionate developer from Fiji.
 ## A 3rd Year BSE student at USP, driven by logic, structure, and the pursuit of becoming a flawless developer.
 
-- 🌱 I'm currently learning **Cloud Computing, System Architecture & DevOps**
+- 🌱 I'm currently learning **Cybersecurity Principles, System Architecture & DevOps**
 - 👯 I'm looking to collaborate on **Java & Python Projects**
 - 💬 Ask me about **SWE, OOP, Web Dev, Socket Programming & System Design**
 - 📫 How to reach me: **ronilprasad46@gmail.com**
