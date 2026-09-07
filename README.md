@@ -6,7 +6,7 @@
 </div>
 
 ## A methodical Software Engineering student and passionate developer from Fiji.
-## A 3rd Year BSE student at USP, driven by logic, structure, and the pursuit of becoming a flawless developer.
+## A 3rd Year BSE student at USP, driven by logic, structure, and the pursuit of becoming a flawless developer. 
 
 - 🌱 I'm currently learning **Distributed Computing, Software Testing & QA, Data Mining, and building an Applied Computing Project**
 - 💼 I'm currently working on **Student Administration System**
